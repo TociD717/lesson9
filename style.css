@@ -140,14 +140,14 @@ h1,h2,h3 {
     margin-left: 23px;
     margin-right: 23px;
 }
-.item-number {
+.item__number {
     color: white;
     font-family: var(--font-family);
     font-size: 21px;
     line-height: 24.61px;
     margin: 0 0 0 20px;
 }
-.item-text {
+.item__text {
     color: white;
     font-family: var(--font-family);
     font-size: 16px;
@@ -161,14 +161,14 @@ h1,h2,h3 {
     height: 1004px;
     background-color: var(--secondary-color);
 }
-.work-header {
+.work__header {
     font-size: var(--big-header-fontsize);
     line-height: 37.5px;
     font-family: var(--font-family);
     margin: 0;
     padding-top: 100px;
 }
-.work-text {
+.work__text {
     width: 540px;
     height: 67px;
     font-size: var(--header-fontsize);
